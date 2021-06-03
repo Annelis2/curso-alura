@@ -1,0 +1,11 @@
+padding - muda o espaçamento de dentro do espaço.
+background - mudar o fundo do texto.
+!DOCTYPE html - primeira coisa do html.
+html lang="pt-br" - lingua da página.
+head - o que n vai aparcer na página.
+meta - o dicionario.
+title - o titulo do site.
+link rel="stylesheet" hret="reset.css" - limpa a página.
+body - o corpo do texto.
+header - a cabeça do texto.
+
